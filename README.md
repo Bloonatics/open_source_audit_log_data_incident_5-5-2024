@@ -1,5 +1,8 @@
 # Open source audit log data incident 5/5/2024
 
+> [!WARNING]
+> Do not use the API data for any purposes other than understanding the incident. The disclosure of our audit log data is only for transparency concern.
+
 ## Specification
 
 - From `4 May 2024 22:06 UTC` to `5 May 2024 02:40 UTC`
